@@ -1,8 +1,8 @@
 # Movie-Analysis-2014-2015
 
 #### Contributors
--Andy Tran
--Arthur Lee
+- Andy Tran
+- Arthur Lee
 
 This is a deep dive analysis of various movie statistics collected via IMDb, Youtube,and Twitter. We also used this data to model & forecast future gross profits of movies.
 
@@ -15,6 +15,6 @@ YouTube views, likes, and dislikes were not strong indicators of box office succ
 and movies with large social media followings had moderate correlation with box office success.
 
 ## Other Ideas
--Larger sample size of movies
--Addition of other predictors such as money spent on advertisements
+- Larger sample size of movies
+- Addition of other predictors such as money spent on advertisements
 
