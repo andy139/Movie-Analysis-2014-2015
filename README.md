@@ -14,7 +14,7 @@ screenings was also a factor in box office success. However, social media statis
 YouTube views, likes, and dislikes were not strong indicators of box office success or failure,
 and movies with large social media followings had moderate correlation with box office success.
 
-## Other Ideas
+## In the future maybe
 - Larger sample size of movies
 - Addition of other predictors such as money spent on advertisements
 
