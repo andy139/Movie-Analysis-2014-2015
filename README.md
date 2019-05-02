@@ -4,7 +4,7 @@
 - Andy Tran
 - Arthur Lee
 
-This is a deep dive analysis of various movie statistics collected via IMDb, Youtube,and Twitter. We also used this data to model & forecast future gross profits of movies.
+This is a statistical analysis of various movie statistics collected via IMDb, Youtube,and Twitter. We then built a model using these predictors to accurately forecast gross movie revenues.
 
 ## Conclusion
 In summary, we found several predictors that were influential to a movie’s success in the
