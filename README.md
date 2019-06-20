@@ -15,5 +15,5 @@ YouTube views, likes, and dislikes were not strong indicators of box office succ
 and movies with large social media followings had moderate correlation with box office success.
 
 ## Future Additions
-- Utilzing different Machine Learning techniques to obtain higher prediction accuracy
+- Utilizing different Machine Learning techniques to obtain higher prediction accuracy
 
