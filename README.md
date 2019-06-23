@@ -4,7 +4,7 @@
 - Andy Tran
 - Arthur Lee
 
-This is a statistical analysis of various movie statistics collected via IMDb, Youtube,and Twitter. We then built a model using these predictors to accurately forecast gross movie revenues.
+This is a statistical analysis of various movie statistics collected via IMDb, Youtube,and Twitter. We then built a multi-linear regression model using these predictors to accurately forecast gross movie revenues.
 
 ## Conclusion
 In summary, we found several predictors that were influential to a movie’s success in the
