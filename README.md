@@ -7,10 +7,13 @@
 This is a statistical analysis of various movie statistics collected via IMDb, Youtube,and Twitter. We then built a multi-linear regression model using these predictors to accurately forecast gross movie revenues.
 
 ## Scatterplot Matrix of Features
-![alt text](https://i.gyazo.com/cccba624085ec12c0702901a028bd8d0.png)
+
+<p align="center"> 
+<img src="https://i.gyazo.com/cccba624085ec12c0702901a028bd8d0.png" align="center" width="100%" height="100%">
 
 ## Predictions
-![alt text](https://i.gyazo.com/a8a18f6608664361ebfc358bb4735e2a.png)
+<p align="center"> 
+<img src="https://i.gyazo.com/a8a18f6608664361ebfc358bb4735e2a.png" align="center" width="100%" height="100%">
 
 ## Conclusion
 In summary, we found several predictors that were influential to a movie’s success in the
